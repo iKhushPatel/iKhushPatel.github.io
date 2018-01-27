@@ -46,7 +46,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -65,6 +65,18 @@
                 "contentAlign": "left",
                 "text": "A man who try to think Out of BOX !!!",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html#msg-box2-u\" data-toolbar=\"-mbrBtnMove\">PROJECT</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Learner",
+                "contentAlign": "left",
+                "text": "A man who try to Learn New Things !!!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html#msg-box2-u\" data-toolbar=\"-mbrBtnMove\">PROJECT</a> ",
+                "overlay": false
               }
             ]
           },
