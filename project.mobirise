@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khush Website",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -970,7 +970,7 @@
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.facebook.com/iKhushPatel/videos/1815636382009485/\" data-toolbar=\"-mbrBtnMove\">WATCH VIDEO</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.facebook.com/iKhushPatel/videos/1815636382009485/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH VIDEO</a> ",
           "_tags": [
             "Theme"
           ],
