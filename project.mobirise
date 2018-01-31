@@ -64,7 +64,7 @@
                 "title": "Innovator",
                 "contentAlign": "left",
                 "text": "A man who try to think Out of BOX !!!",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"projects.html#msg-box2-u\" data-toolbar=\"-mbrBtnMove\">PROJECT</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"projects.html\" data-toolbar=\"-mbrBtnMove\">PROJECT</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
