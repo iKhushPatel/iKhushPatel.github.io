@@ -250,22 +250,24 @@ a:active{
 .img-full{
 	height: 100%;
 }
-.centered_div {
-	width: calc(100% - 60px);
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%,-50%);
-   /* width: Xu;
-   height: Yu;
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   margin-left: -(X/2)u;
-   margin-top: -(Y/2)u; */
-}
-.img-streach{
-	height:1024px;
+@media (min-height: 800px){
+	.centered_div {
+		width: calc(100% - 60px);
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+	   /* width: Xu;
+	   height: Yu;
+	   position: absolute;
+	   top: 50%;
+	   left: 50%;
+	   margin-left: -(X/2)u;
+	   margin-top: -(Y/2)u; */
+	}
+	.img-streach{
+		height:1024px;
+	}
 }
 
 
