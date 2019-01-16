@@ -184,6 +184,13 @@ section{
 	border-right: 1px solid #808080;
 	border-left: 1px solid #808080;
 }
+.section-blog-half{
+	height: 100%;
+	padding-top: 90px;
+}
+.text-justify{
+	text-align: justify;
+}
 .content-section{
 	color: #808080;
 }
@@ -240,6 +247,9 @@ a:active{
 }
 .margin-left-small{
 	margin-left: 2%;
+}
+.margin-right-small{
+	margin-right: 2%;
 }
 
 /* center align vertically and horizontally div on your browser screen */
