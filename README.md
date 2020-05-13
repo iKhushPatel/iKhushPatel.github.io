@@ -1,1 +1,2 @@
-ikhushpatel.github.io
+# ikhushpatel.github.io
+Khush Patel - Personal Website
